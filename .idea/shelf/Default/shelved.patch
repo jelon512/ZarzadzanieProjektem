@@ -1,0 +1,10 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 941bca84c9c8bea9de88670f50d9ba45b3cd8e1b)
++++ README.md	(date 1584795786866)
+@@ -1,1 +1,2 @@
+ "# ZarzadzanieProjektem" 
++"# ZarzadzanieProjektem" 
